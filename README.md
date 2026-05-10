@@ -1,6 +1,6 @@
-Ok
 
-# 🎲 Mines Predictor – Predict Mines Easily and Effectively 2026
+
+# 🎲 Mines_Predictor – Predict Mines Easily and Effectively 2026
 
 > Advanced analytics and probability insights for Stake Mines players. Lightweight, fast, and easy to use.
 
